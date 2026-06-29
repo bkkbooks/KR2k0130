@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR2k0130/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0130/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍沙紀略
+  date: '2015-08-24 22:46:46.531498'
+  source:
+    repository: kanripo
+    path: KR2k0130
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0130_000-WYG.yaml, hash: 'sha256:da216a60c0813c3a8b1e92ee8537706cfd88ab57072bf4a5a11d26b851e93f14'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0130_000-WYG.markers.yaml, hash: 'sha256:882c810af81cc24df065efb74f382ee4f503827a997e4e98bcd0f57de35b25c8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0130_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 693
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0130_WYG_000-4a
+    span:
+    - body
+    - 693
+    - 10236
+  label: 龍沙紀畧
+  type: section
+  level: 1
+hash: sha256:0ebf29c8dc13bb09a7f0686d44b0d8eb8a13582d880320aad7a7b2028d53a52b
