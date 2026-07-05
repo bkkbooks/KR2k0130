@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0130_000.yaml, hash: 'sha256:a583f31e58bc7cf18cc2bc3f8ef28ef13ff3dfe8b0a87dd8a0c170c642ba2e99'}
+  - {seq: 0, filename: KR2k0130_000.yaml, hash: 'sha256:fb940162e14788ef2037673a2aed7ec8632e03f067ddb9bfd85e1302afe0ba5f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0130_000.markers.yaml, hash: 'sha256:296d70580ef3500b4a03206b7b2ff83303cef8147ba12434263dfad17ef39fbc'}
+  - {seq: 0, role: markers, filename: assets/KR2k0130_000.markers.yaml, hash: 'sha256:a7c66355e90c7d5ff33f5367c6e36a624544e8cf53e6673399c28a11da6ab6c3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 龍沙紀畧
   type: section
   level: 1
-hash: sha256:955b67080ef5b59aefa1ba058f1801398a46ec170ce4d4f48c7253d9829b936d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b51d72180baf6846723e74640fa2d3a952f843251900c539fc5516530d6a26fa
