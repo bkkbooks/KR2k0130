@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0130/v1
 canonical_location: https://kanripo.org/bkk/KR2k0130/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 龍沙紀略
   date: '2015-08-24 22:46:46.531498'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0130_000.yaml, hash: 'sha256:fb940162e14788ef2037673a2aed7ec8632e03f067ddb9bfd85e1302afe0ba5f'}
+  - {seq: 0, filename: KR2k0130_000.yaml, hash: 'sha256:22b04e6dd02aae3fa8a4e7898493be323052f195c34cd57ca61fae849c593b83'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0130_000.markers.yaml, hash: 'sha256:a7c66355e90c7d5ff33f5367c6e36a624544e8cf53e6673399c28a11da6ab6c3'}
+  - {seq: 0, role: markers, filename: assets/KR2k0130_000.markers.yaml, hash: 'sha256:3debf7ee83f43d1372ed99ac55efc5c8f8ea9cb13bd69b52e229d962f19cfcf2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 龍沙紀畧
   type: section
   level: 1
-hash: sha256:b51d72180baf6846723e74640fa2d3a952f843251900c539fc5516530d6a26fa
+hash: sha256:47b76d32ffd117fcb7559bf04dc6f085afca7cd3138eb70d61c815b937329461
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
