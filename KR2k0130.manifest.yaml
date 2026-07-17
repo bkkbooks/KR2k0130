@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2k0130_000.yaml, hash: 'sha256:22b04e6dd02aae3fa8a4e7898493be323052f195c34cd57ca61fae849c593b83'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0130_000.markers.yaml, hash: 'sha256:3debf7ee83f43d1372ed99ac55efc5c8f8ea9cb13bd69b52e229d962f19cfcf2'}
+  - {seq: 0, role: markers, filename: assets/KR2k0130_000.markers.yaml, hash: 'sha256:4413e8db84fd981e41067391119041be2140c05698bb2f0d9ef1764e5d4ed2bf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 龍沙紀畧
   type: section
   level: 1
-hash: sha256:47b76d32ffd117fcb7559bf04dc6f085afca7cd3138eb70d61c815b937329461
+hash: sha256:0afc1175c29681ec3f54b282bfa1e230d55fdfb6aaa68d09df0c59d724bc9253
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2k0130_000-WYG.yaml, hash: 'sha256:da216a60c0813c3a8b1e92ee8537706cfd88ab57072bf4a5a11d26b851e93f14'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0130_000-WYG.markers.yaml, hash: 'sha256:882c810af81cc24df065efb74f382ee4f503827a997e4e98bcd0f57de35b25c8'}
+  - {seq: 0, role: markers, filename: assets/KR2k0130_000-WYG.markers.yaml, hash: 'sha256:87e7ec1b00d179ba702d4d7df0382f42e8553513d2c66939999eaa56a5590aa3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 龍沙紀畧
   type: section
   level: 1
-hash: sha256:0ebf29c8dc13bb09a7f0686d44b0d8eb8a13582d880320aad7a7b2028d53a52b
+hash: sha256:ed515dff9dce76898f337a465a6fe0adbe3c70593eca3ec79e8ba3ad5a7c44e3
